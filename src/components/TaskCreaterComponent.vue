@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="taskCreator">
     <h1>This will be a Task creation page eventualy</h1>
   </div>
 </template>

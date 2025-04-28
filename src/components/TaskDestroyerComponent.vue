@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="taskDestroyer">
     <h1>This will be a Task Destroyer page eventualy</h1>
   </div>
 </template>
