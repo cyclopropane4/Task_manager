@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import TaskCreaterComponent from '../components//TaskCreaterComponent.vue'
+import TaskCreaterComponent from '../components/TaskCreaterComponent.vue'
 </script>
 
 <template>

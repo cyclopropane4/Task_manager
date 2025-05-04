@@ -13,6 +13,7 @@
       laudantium soluta quos perferendis, nesciunt harum alias ex numquam!
     </p>
   </div>
+
 </template>
 
 <style scoped></style>

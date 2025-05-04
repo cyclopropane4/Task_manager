@@ -37,3 +37,7 @@ npm run build
 ```sh
 npm run lint
 ```
+
+
+For the backend cd into QUICKSTARTGo... and run instructions at https://developers.google.com/workspace/sheets/api/quickstart/js
+For calendar backend stuff https://dev.to/debopriyadey/fetch-and-create-events-in-google-calendar-with-html-and-javascript-1o6f

@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import TaskDesroyerComponent from '../components//TaskDestroyerComponent.vue'
+import TaskDesroyerComponent from '../components/TaskDestroyerComponent.vue'
 </script>
 
 <template>
